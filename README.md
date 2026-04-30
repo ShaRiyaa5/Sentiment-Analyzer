@@ -15,4 +15,4 @@ streamlit run textfilter.py
 - Classifies sentiment using TextBlob's polarity scoring
 
 ---
-Built by Shanmugaapriyaa Swaminathan — github.com/ShaRiyaa5
+Built by Shanmugaapriyaa Swaminathan - github.com/ShaRiyaa5
